@@ -1,1 +1,4 @@
 # pythonproject
+What was initially meant to be my simple finance program in Python that would retrieve specific data on a stock and provide contextual computations didn't pan out that way. This was because the required packages mentioned in the project announcement assignment needed additional installation by multiple parties for the imports to work when testing the source code directly.
+
+This therefore pivoted my trajectory towards making a more traditional and yet still simple program that can demonstrate not only logical implementation of code in python, but also standard practices using github repositories and project commits. I ended up thus making a basic python program that prompted the user to provide a number of elements in a list, and input the individual elements. The program then would count the amount of even and odd numbers in a list provided by the user, and print the list itself with the even and odd counts.
